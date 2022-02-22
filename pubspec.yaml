@@ -54,6 +54,23 @@ flutter:
     - packages/html_editor_enhanced/assets/font/summernote.woff
     - packages/html_editor_enhanced/assets/font/summernote.woff2
     - packages/html_editor_enhanced/assets/plugins/summernote-at-mention/summernote-at-mention.js
+    - packages/html_editor_enhanced/assets/font/Quicksand-Bold.ttf
+    - packages/html_editor_enhanced/assets/font/Quicksand-Light.ttf
+    - packages/html_editor_enhanced/assets/font/Quicksand-Medium.ttf
+    - packages/html_editor_enhanced/assets/font/Quicksand-Regular.ttf
+    - packages/html_editor_enhanced/assets/font/Quicksand-SemiBold.ttf
+  fonts:
+    - family: Quicksand
+      fonts:
+       - asset: packages/html_editor_enhanced/assets/font/Quicksand-Bold.ttf
+       - asset: packages/html_editor_enhanced/assets/font/Quicksand-Light.ttf
+       - asset: packages/html_editor_enhanced/assets/font/Quicksand-Medium.ttf
+       - asset: packages/html_editor_enhanced/assets/font/Quicksand-Regular.ttf
+       - asset: packages/html_editor_enhanced/assets/font/Quicksand-SemiBold.ttf
+    - family: Palatino
+      fonts:
+        - asset: packages/html_editor_enhanced/assets/font/Palatino.ttf
+
   # This section identifies this Flutter project as a plugin project.
   # The 'pluginClass' and Android 'package' identifiers should not ordinarily
   # be modified. They are used by the tooling to maintain consistency when
